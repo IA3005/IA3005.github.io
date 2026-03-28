@@ -16,7 +16,7 @@ from covariance matrices**, motivated by real-world noisy and heterogeneous data
 - Riemannian geometry
 - Statistical learning on manifolds
 - Covariance matrix modeling
-- Causal inference
+- Out-of-distribution generalization
 - Signal processing (in particular EEG)
 - Information geometry
 - Also interested in: diffusion models, Physics-informed neural network (PINN), geometry-aware architectures, quantification of information flow 
